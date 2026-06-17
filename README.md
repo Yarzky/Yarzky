@@ -22,14 +22,9 @@ I also enjoy working with Dart and Flutter. I'm highly motivated by writing clea
 ### Languages and Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white" alt=".NET">
-  <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/-Postgres-336791?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres">
-  <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart">
-  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" alt="Arch Linux">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,nodejs,postgres,dart,flutter,arch" />
+  </a>
 </p>
 
 
